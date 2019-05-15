@@ -1,7 +1,7 @@
 *This project starded from a modified local script heavily based on a [mac issues article by Topher Kessler](http://www.macissues.com/2014/04/05/how-to-fix-deep-formatting-problems-with-os-x-drives/).*
 
 
-#Hard drives are not ideal.
+# Hard drives are not ideal.
 
 It's *hard* to take the eject messages seriously since 99.9% of the time everything is fine. But sometimes it goes wrong. ***REALLY*** wrong. Sometimes all you want to do is start over, but the wussy osx macbook won't let you.
 
@@ -11,7 +11,7 @@ This is a last resort little script that completely fecks up a hard drive by att
 
 
 
-##Running
+## Running
 
  1. `cd` to the download directory and run the following command to make the script executable:
 
